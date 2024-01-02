@@ -3,25 +3,42 @@
 int main() {
 
     // Declaration Statements
-    int zu_deklarierende_variable;
+    // Stellen eine neue Variable zur Verfügung
+    int eine_variable;
+    int neue_variable;
 
     // Expression Statements
-    zu_deklarierende_variable = 20;
-    zu_deklarierende_variable = 20 * 2;
+    // Weisen Variable einen Wert zu, berechnen etwas oder rufen eine Funktion auf
+    eine_variable = 10;
+    eine_variable = 10 * 2;
+    neue_variable = 5;
 
     // Selection Statements
-    if (zu_deklarierende_variable >= 50) {
-        printf("Variable ist aktuell bei: %d\n", zu_deklarierende_variable);
+    // Anweisungen, die abhängig von einer Bedingung ausgeführt werden
+    if (eine_variable >= 50) {
+        printf("Variable ist aktuell bei: %d\n", eine_variable);
     }
     else {
-        printf("Variable ist aktuell bei: %d\n", zu_deklarierende_variable);
+        printf("Variable ist aktuell bei: %d\n", eine_variable);
     }
 
     // Iteration Statements
-    while (zu_deklarierende_variable != 80) {
-        zu_deklarierende_variable = zu_deklarierende_variable + 10;
-        printf("Variable ist aktuell bei: %d\n", zu_deklarierende_variable);
-        return zu_deklarierende_variable;
+    // Anweisungen, die solange ausgeführt werden bis eine Bedingung erfüllt ist
+    while (eine_variable != 60) {
+        eine_variable = eine_variable + 10;
+        printf("Variable ist aktuell bei: %d\n", eine_variable);
+        return eine_variable;
+    }
+
+    // Compound Statements
+    // Verschachtelte Selection- und Iteration Statements
+    if (eine_variable = 60) {
+        if (neue_variable = 5) {
+            printf("neue_variable ist aktuell bei: %d\n", neue_variable);
+        }
+        else {
+            printf("neue_variable ist aktuell bei: %d\n", neue_variable);
+        }
     }
 
 }
