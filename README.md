@@ -1,9 +1,8 @@
-This Section is about the module "Algorithms and Programming" from the first semester of my bachelors in "Cyber Security" at University Bonn, Germany.
-These topics will be went through in the uploaded code:
+Lernaufgaben AlPro Klausur 05.02.2024
 
 Begriffsdefinitionen
 Variablen;
-Signatur: (Typ, Name, Wert, Adresse) → int x = 50;
+Signatur: (Typ, Name, Wert, Adresse) → int eine_variable = 50;
 
 Funktionen;
 Signatur: (Rückgabetyp, Name, Folge von Inputvariablen, Programmcode) → int quadrat(int zahl) {code… }
@@ -23,7 +22,11 @@ Iteration Statements
 Anweisungen, die solange ausgefüllt werden, bis eine Bedingung erfüllt ist.
 Bsp.: while-Schleife
 
+Berechnen von Binär / Dezimal / Hexadezimal-Zahlen
+
 Referenzieren / Dereferenzieren;
+
+Call by Value, Call by Reference, Call by const reference
 
 Virtueller Adressraum
 
