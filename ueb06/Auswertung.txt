@@ -1,0 +1,89 @@
+Berechnete Zeiten der Algorithmen
+
+... Für 100 Zahlen
+Quicksort:
+0 Min; 0 Sek; 0 Milli; 15 Mikro;
+0 Min; 0 Sek; 0 Milli; 16 Mikro;
+0 Min; 0 Sek; 0 Milli; 15 Mikro;
+0 Min; 0 Sek; 0 Milli; 14 Mikro;
+0 Min; 0 Sek; 0 Milli; 14 Mikro;
+
+MinSort:
+0 Min; 0 Sek; 0 Milli; 20 Mikro;
+0 Min; 0 Sek; 0 Milli; 21 Mikro;
+0 Min; 0 Sek; 0 Milli; 36 Mikro;
+0 Min; 0 Sek; 0 Milli; 20 Mikro;
+0 Min; 0 Sek; 0 Milli; 20 Mikro;
+
+MergeSort:
+0 Min; 0 Sek; 0 Milli; 97 Mikro;
+0 Min; 0 Sek; 0 Milli; 95 Mikro;
+0 Min; 0 Sek; 0 Milli; 104 Mikro;
+0 Min; 0 Sek; 0 Milli; 94 Mikro;
+0 Min; 0 Sek; 0 Milli; 95 Mikro;
+
+... Für 1.000 Zahlen
+Quicksort:
+0 Min; 0 Sek; 0 Milli; 182 Mikro;
+0 Min; 0 Sek; 0 Milli; 172 Mikro;
+0 Min; 0 Sek; 0 Milli; 188 Mikro;
+0 Min; 0 Sek; 0 Milli; 180 Mikro;
+0 Min; 0 Sek; 0 Milli; 177 Mikro;
+
+MinSort:
+0 Min; 0 Sek; 1 Milli; 574 Mikro;
+0 Min; 0 Sek; 1 Milli; 686 Mikro;
+0 Min; 0 Sek; 1 Milli; 532 Mikro;
+0 Min; 0 Sek; 1 Milli; 575 Mikro;
+0 Min; 0 Sek; 1 Milli; 567 Mikro;
+
+MergeSort:
+0 Min; 0 Sek; 2 Milli; 852 Mikro;
+0 Min; 0 Sek; 2 Milli; 853 Mikro;
+0 Min; 0 Sek; 2 Milli; 813 Mikro;
+0 Min; 0 Sek; 2 Milli; 833 Mikro;
+0 Min; 0 Sek; 2 Milli; 869 Mikro;
+
+... Für 10.000 Zahlen
+Quicksort:
+0 Min; 0 Sek; 2 Milli; 204 Mikro;
+0 Min; 0 Sek; 2 Milli; 251 Mikro;
+0 Min; 0 Sek; 2 Milli; 258 Mikro;
+0 Min; 0 Sek; 2 Milli; 257 Mikro;
+0 Min; 0 Sek; 2 Milli; 220 Mikro;
+
+MinSort:
+0 Min; 0 Sek; 191 Milli; 960 Mikro;
+0 Min; 0 Sek; 197 Milli; 940 Mikro;
+0 Min; 0 Sek; 192 Milli; 856 Mikro;
+0 Min; 0 Sek; 195 Milli; 482 Mikro;
+0 Min; 0 Sek; 195 Milli; 566 Mikro;
+
+MergeSort:
+0 Min; 0 Sek; 9 Milli; 377 Mikro;
+0 Min; 0 Sek; 10 Milli; 671 Mikro;
+0 Min; 0 Sek; 9 Milli; 600 Mikro;
+0 Min; 0 Sek; 9 Milli; 460 Mikro;
+0 Min; 0 Sek; 9 Milli; 620 Mikro;
+
+... Für 100.000 Zahlen
+Quicksort:
+0 Min; 0 Sek; 41 Milli; 8 Mikro;
+0 Min; 0 Sek; 45 Milli; 894 Mikro;
+0 Min; 0 Sek; 42 Milli; 12 Mikro;
+0 Min; 0 Sek; 37 Milli; 58 Mikro;
+0 Min; 0 Sek; 48 Milli; 4 Mikro;
+
+MinSort:
+0 Min; 15 Sek; 711 Milli; 654 Mikro;
+0 Min; 23 Sek; 566 Milli; 100 Mikro;
+0 Min; 16 Sek; 851 Milli; 573 Mikro;
+0 Min; 14 Sek; 990 Milli; 959 Mikro;
+0 Min; 15 Sek; 738 Milli; 169 Mikro;
+
+MergeSort:
+0 Min; 0 Sek; 171 Milli; 307 Mikro;
+0 Min; 0 Sek; 184 Milli; 216 Mikro;
+0 Min; 0 Sek; 170 Milli; 955 Mikro;
+0 Min; 0 Sek; 171 Milli; 231 Mikro;
+0 Min; 0 Sek; 174 Milli; 220 Mikro;
