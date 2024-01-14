@@ -5,8 +5,9 @@
 int main(int, char**) {
   hanoi::Hanoi h(5);
   h.drucke();
-  // 
+  
   h.bewege(0,1);
+  h.drucke();
   h.bewege(0,1); // Illegale Bewegung
   h.bewege(0,2);
   h.drucke();
@@ -20,3 +21,5 @@ int main(int, char**) {
   h.bewege(0,1);
   h.drucke();
 }
+
+// g++ -std=c++17 -I./include src/hanoi.cpp examples/aufg2.cpp -o build/aufg2

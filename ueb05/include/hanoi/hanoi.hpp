@@ -14,6 +14,7 @@ namespace hanoi{
     // genau dann wenn die Bewegung erlaubt war
     bool bewege(size_t von, size_t nach);
     
+
     // Druckt die aktuelle Konfiguration auf der Konsole aus
     void drucke() const;
 
