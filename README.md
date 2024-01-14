@@ -22,18 +22,29 @@ Iteration Statements
 Anweisungen, die solange ausgefüllt werden, bis eine Bedingung erfüllt ist.
 Bsp.: while-Schleife
 
+
+----------------------
 Berechnen von Binär / Dezimal / Hexadezimal-Zahlen
 
+
+----------------------
 Referenzieren / Dereferenzieren;
 
 Call by Value, Call by Reference, Call by const reference
 
+
+----------------------
 Virtueller Adressraum
 
 Sortierverfahren
 Min-Sort;
 Divide-and-Conquer;
 
+Landau Symbole
+Kosten der Sortieralgorithmen
+
+
+----------------------
 Min-Heap
 → Min-Heap-Eigenschaften?
 [Operationen]
@@ -46,6 +57,8 @@ Max-Heap
 Hinzufügen eines Elements
 Entfernen eines Elements
 
+
+----------------------
 AVL-Suchbäume
 [Operationen]
 Hinzufügen eines Elements
@@ -56,6 +69,8 @@ Tiefe eines AVL-Baums angeben
 Links/Rechtsrotation
 Doppelte Rotationen
 
+
+----------------------
 Einfach verkettete Listen
 [Eigenschaften]
 Pointer / Weak-Pointer
