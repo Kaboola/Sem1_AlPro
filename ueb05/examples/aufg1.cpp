@@ -33,3 +33,5 @@ int main() {
   std::cout << "Hier das geordnete Array: " << std::endl;
   drucke_array(bsp_zahlen);
 }
+
+// g++ -std=c++17 -I./include src/minsort_in_place.cpp examples/aufg1.cpp -o build/aufg1
