@@ -24,3 +24,5 @@ int main() {
 
   return 0;
 }
+
+// g++ -std=c++17 -I./include src/simpler_graph.cpp examples/aufg3.cpp -o build/aufg3
